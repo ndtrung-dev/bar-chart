@@ -4,7 +4,7 @@ This is a project to fulfiled _Data Visualization_ Course provided by freeCodeCa
 
 Goals: Build an app that is functionally similar to this https://bar-chart.freecodecamp.rocks using the following [database](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json).
 
-In this project, the tech stack was used ReactJS, d3.js and CSS. Vite was used to build instead of the conventional ones, CRA.<br>
+In this project, the tech stack was used ReactJS, d3.js and CSS. Vite was used to built instead of the conventional ones, CRA.<br>
 Check out the live demo [here](https://ndtrung-dev.github.io/bar-chart).
 
 ## Requirements:
