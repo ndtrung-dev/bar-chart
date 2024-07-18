@@ -2,7 +2,7 @@
 
 This is a project to fulfiled _Data Visualization_ Course provided by freeCodeCamp.
 
-Goals: Create a random quote generator similar to this: https://javascript-calculator.freecodecamp.rocks/.
+Goals: Build an app that is functionally similar to this https://bar-chart.freecodecamp.rocks using the following [database](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json).
 
 In this project, the tech stack was used ReactJS, d3.js and CSS. Vite was used to build instead of the conventional ones, CRA.<br>
 Check out the live demo [here](https://ndtrung-dev.github.io/bar-chart).
@@ -10,7 +10,7 @@ Check out the live demo [here](https://ndtrung-dev.github.io/bar-chart).
 ## Requirements:
 
 ### User story:
->
+
 > 1. My chart should have a title with a corresponding _id="title"_.
 >
 > 1. My chart should have a g element x-axis with a corresponding _id="x-axis"_.
