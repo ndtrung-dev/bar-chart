@@ -1,0 +1,8 @@
+html {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+}
+html * {
+  padding: 0;
+  margin: 0;
+}
